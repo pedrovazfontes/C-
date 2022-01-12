@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores_Logicos_e_Condicionais", "Operadores_Logicos_e_Condicionais\Operadores_Logicos_e_Condicionais.csproj", "{54A3B1EC-33B8-4EF7-A110-BB1F6A87AD54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A3B1EC-33B8-4EF7-A110-BB1F6A87AD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A3B1EC-33B8-4EF7-A110-BB1F6A87AD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A3B1EC-33B8-4EF7-A110-BB1F6A87AD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A3B1EC-33B8-4EF7-A110-BB1F6A87AD54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F2C2F2-2BA1-43E9-82DF-AE8E057EEBB5}
+	EndGlobalSection
+EndGlobal
