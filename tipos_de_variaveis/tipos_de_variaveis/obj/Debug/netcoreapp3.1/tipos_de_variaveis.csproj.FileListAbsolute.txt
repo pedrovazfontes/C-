@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\bin\Debug\netcoreapp3.1\tipos_de_variaveis.exe
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\bin\Debug\netcoreapp3.1\tipos_de_variaveis.deps.json
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\bin\Debug\netcoreapp3.1\tipos_de_variaveis.runtimeconfig.json
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\bin\Debug\netcoreapp3.1\tipos_de_variaveis.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\bin\Debug\netcoreapp3.1\tipos_de_variaveis.dll
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\bin\Debug\netcoreapp3.1\tipos_de_variaveis.pdb
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\netcoreapp3.1\tipos_de_variaveis.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\netcoreapp3.1\tipos_de_variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\netcoreapp3.1\tipos_de_variaveis.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\netcoreapp3.1\tipos_de_variaveis.AssemblyInfo.cs
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\netcoreapp3.1\tipos_de_variaveis.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\netcoreapp3.1\tipos_de_variaveis.dll
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\netcoreapp3.1\tipos_de_variaveis.pdb
+C:\Users\pedro\source\repos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\netcoreapp3.1\tipos_de_variaveis.genruntimeconfig.cache
