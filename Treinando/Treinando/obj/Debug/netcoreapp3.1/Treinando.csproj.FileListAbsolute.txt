@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\obj\Debug\netcoreapp3.1\Treinando.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\obj\Debug\netcoreapp3.1\Treinando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\obj\Debug\netcoreapp3.1\Treinando.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\obj\Debug\netcoreapp3.1\Treinando.AssemblyInfo.cs
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\obj\Debug\netcoreapp3.1\Treinando.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\bin\Debug\netcoreapp3.1\Treinando.exe
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\bin\Debug\netcoreapp3.1\Treinando.deps.json
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\bin\Debug\netcoreapp3.1\Treinando.runtimeconfig.json
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\bin\Debug\netcoreapp3.1\Treinando.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\bin\Debug\netcoreapp3.1\Treinando.dll
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\bin\Debug\netcoreapp3.1\Treinando.pdb
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\obj\Debug\netcoreapp3.1\Treinando.dll
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\obj\Debug\netcoreapp3.1\Treinando.pdb
+C:\Users\pedro\source\repos\c-sharp\c-sharp\Treinando\Treinando\obj\Debug\netcoreapp3.1\Treinando.genruntimeconfig.cache
