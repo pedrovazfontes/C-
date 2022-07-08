@@ -1,0 +1,15 @@
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\bin\Debug\net6.0\Exercicios_parte1.exe
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\bin\Debug\net6.0\Exercicios_parte1.deps.json
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\bin\Debug\net6.0\Exercicios_parte1.runtimeconfig.json
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\bin\Debug\net6.0\Exercicios_parte1.dll
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\bin\Debug\net6.0\Exercicios_parte1.pdb
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\Exercicios_parte1.csproj.AssemblyReference.cache
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\Exercicios_parte1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\Exercicios_parte1.AssemblyInfoInputs.cache
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\Exercicios_parte1.AssemblyInfo.cs
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\Exercicios_parte1.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\Exercicios_parte1.dll
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\refint\Exercicios_parte1.dll
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\Exercicios_parte1.pdb
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\Exercicios_parte1.genruntimeconfig.cache
+D:\ProjetosC#\TiposdeDados1\Exercicios_parte1\Exercicios_parte1\obj\Debug\net6.0\ref\Exercicios_parte1.dll
