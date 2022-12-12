@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+C:\Users\Pedro\Documents\balta\ProjetoHtml\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
