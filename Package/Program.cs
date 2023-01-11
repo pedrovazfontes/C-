@@ -3,91 +3,70 @@
 
 namespace Package{
     class Program
-    {
-        static void Main(string[] args)
+    {   
+        public static void Main(string[] args)
         {
+            var opcao = "";
+            var cad_fornecedor = new Fornecedor.CadastrarFornecedor(NovoFornecedor);
+            var cad_produto = new Produtos.CadastrarProdutos(NovoProduto);
+        
+            while(opcao != "4"){
+                Console.WriteLine("\n[1] Cadastrar Fornecedor \n" +
+                "[2] Cadastrar Produto \n" +
+                "[3] Realizar Venda \n" +
+                "[4] Sair \n" );
+                Console.Write("De acordo com as opções abaixo, digite a desejada: ");
+                opcao = Console.ReadLine();
+
+                if(opcao == "1"){
+                    cad_fornecedor();
+                    IList<Fornecedor> cadastros = new List<Fornecedor>();
+                    
+                    
+                }
+
+                else if(opcao == "2"){
+                    NovoProduto();
+                    Console.WriteLine($"{cad_fornecedor.}");
+                }
+
+                else if(opcao == "3"){
+                    Console.WriteLine("ok!");
+                }
+            }
+            
+  
+        }
+
+
+        public static void NovoFornecedor(){
             var fornecedor = new Fornecedor();
             Console.Write("Digite o nome do Fornecedor: ");
             fornecedor.Nome = Console.ReadLine();
             Console.Write("Agora digite o CNPJ: ");
             fornecedor.CNPJ = Console.ReadLine();
             Console.Write("Agora digite a data do Inicio do Contrato(dd/mm/yyyy): ");
-            fornecedor.InicioContrato = Convert.ToDateTime(Console.ReadLine());
-            var dataformatada = String.Format("{0:d/M/yyyy}",fornecedor.InicioContrato);
+            fornecedor.InicioContrato = (Console.ReadLine());
             Console.Write("Ok, o contrato ainda está ativo? ");
-            fornecedor.VerificaContrato(false);
+            fornecedor.VerificaContrato();
             Console.WriteLine("Abaixo o resultado das informações");
-
-            Console.WriteLine("=+==+==+==+==+==+==+=");
-            Console.WriteLine(fornecedor.Nome);
-            Console.WriteLine(fornecedor.CNPJ);
-            Console.WriteLine(dataformatada);
-
-            Console.WriteLine(fornecedor.VerificaContrato);
-            }
-    }
-
-
-    public class Fornecedor {
-       public string Nome { get; set; }
-       public string CNPJ { get; set; }
-       public DateTime InicioContrato { get; set; }
-       private bool _contratoAtivo;
-       public bool ContratoAtivo
-       {
-        get { return _contratoAtivo; }
-        set { _contratoAtivo = false; }
-       }
-       public bool VerificaContrato(bool contract){
-            Console.Write("Seu contrato está ativo? ");
-            var pergunta = Console.ReadLine().ToLower();
-            if (pergunta != "sim"){
-                Console.WriteLine("Ok, acionar setor de Compras e verificar situação!");
-                return _contratoAtivo = false;
-            } else{
-                Console.WriteLine("Perfeito!");
-                return _contratoAtivo = true;
-            }
-       }
-
-        
-    }
-
-    public class Produto {
-        public int NumNotaFiscal { get; set; }
-        public string Nome { get; set; }
-        public float preco { get; set; }
-        
-    }
-
-    public class Pagamento{
-        public DateTime DataPagamento { get; set; }
-        public string NomeCliente { get; set; }
-        private bool _maiorIdade = false;
-        public bool MaiorIdade
-        {
-            get { return _maiorIdade; }
-            set { _maiorIdade = value; }
+     
         }
-        public bool ValidaIdade(bool idade){
-            var maior = Console.ReadLine().ToLower();
-            if (maior != "sim"){
-                Console.WriteLine("Menor de Idade não pode pegar bebidas");
-                return _maiorIdade = false;
-            }else{
-                Console.WriteLine("Ok");
-                 return _maiorIdade = true;
-            }
+
+        public static void NovoProduto(){
+            var produto = new Produtos();
+            Console.Write("Digite o nome do Produto: ");
+
         }
-        
-    }
 
-    public class PagamentoBoleto : Pagamento{
-
-    }
+     
 
 
     
+        
+    }
+
+   
  
 } 
 
