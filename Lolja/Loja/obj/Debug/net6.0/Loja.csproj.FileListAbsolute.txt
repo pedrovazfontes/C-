@@ -1,0 +1,15 @@
+C:\Aprendendo\Lolja\Loja\bin\Debug\net6.0\Loja.exe
+C:\Aprendendo\Lolja\Loja\bin\Debug\net6.0\Loja.deps.json
+C:\Aprendendo\Lolja\Loja\bin\Debug\net6.0\Loja.runtimeconfig.json
+C:\Aprendendo\Lolja\Loja\bin\Debug\net6.0\Loja.dll
+C:\Aprendendo\Lolja\Loja\bin\Debug\net6.0\Loja.pdb
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\Loja.csproj.AssemblyReference.cache
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\Loja.AssemblyInfoInputs.cache
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\Loja.AssemblyInfo.cs
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\Loja.csproj.CoreCompileInputs.cache
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\Loja.dll
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\refint\Loja.dll
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\Loja.pdb
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\Loja.genruntimeconfig.cache
+C:\Aprendendo\Lolja\Loja\obj\Debug\net6.0\ref\Loja.dll
