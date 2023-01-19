@@ -6,8 +6,8 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
-        //var novo_cli = Cliente.NovoCliente();
-        //var novo_for = Fornecedor.NovoFornecedor();
+        var clientes = new List<Cliente>();
+        List<string> Clientes_nome = new List<string>();
         var opcao = 0;
         while(opcao != 3){
             Console.WriteLine("[1] Cadastrar CLiente\n" +
@@ -18,13 +18,14 @@ class Program
             opcao = int.Parse(Console.ReadLine());
 
             if(opcao == 1){
-                Cliente.NovoCliente();
+                var cliente2 =Cliente.NovoCliente();
+                Clientes_nome.Add(cliente2.Nome);
                 Console.WriteLine("Cliente Cadastrado");
                 Console.WriteLine("#=#=##=#=##=#=##=#=#");
             }
 
             else if (opcao == 2){
-                Fornecedor.NovoFornecedor();
+                var forne2 = Fornecedor.NovoFornecedor();
                 Console.WriteLine("Fornecedor Cadastrado");
                 Console.WriteLine("#=#=##=#=##=#=##=#=#");
             }
@@ -33,6 +34,8 @@ class Program
                 Console.WriteLine("Ok, até logo!");
                 Console.WriteLine("#=#=##=#=##=#=##=#=#");
             }
+            
         }
+        
     }
 }
