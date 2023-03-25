@@ -17,11 +17,7 @@ namespace SGP.Data
         {
             optionsBuilder
             .EnableSensitiveDataLogging()
-            .UseSqlServer("Data source=(localdb)\\mssqllocaldb;Initial Catalog=SGP;Integrated Security=true",
-            p => p.EnableRetryOnFailure
-            (maxRetryCount: 2,
-            maxRetryDelay: TimeSpan.FromSeconds(5),
-            errorNumbersToAdd: null).MigrationsHistoryTable("SGP"));
+            .UseSqlServer("Data source=(localdb)\\mssqllocaldb;Initial Catalog=SGP;Integrated Security=true");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

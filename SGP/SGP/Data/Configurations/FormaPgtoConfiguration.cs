@@ -8,7 +8,7 @@ namespace SGP.Data.Configurations
         public void Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<FormadePgto> builder)
         {
             builder.ToTable("FormadePgto");
-            builder.HasKey(p => p.IdPgto);
+            builder.HasKey(p => p.Id);
             builder.Property(p => p.Nome).HasColumnType("VARCHAR(30)");
         }
     }

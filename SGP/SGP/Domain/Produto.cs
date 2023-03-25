@@ -6,7 +6,7 @@ namespace SGP.Domain
     {
         public int Id { get; set; }
         public DateTime Data { get; set; }
-        public string Nome { get; set; }SGP/Domain/Produto.cs
+        public string Nome { get; set; }
         public string Descricao { get; set; }
         public int Quantidade { get; set; }
         public float ValorCompra { get; set; }

@@ -3,7 +3,7 @@ using SGP.ValueObjects;
 
 namespace SGP.Domain
 {
-    public class Pedido : FormadePgto
+    public class Pedido 
     {
         public int Id { get; set; }
         public DateTime Data { get; set; }
