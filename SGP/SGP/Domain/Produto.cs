@@ -17,7 +17,7 @@ namespace SGP.Domain
         public static void AlterarProduto()
         {
             using var db = new Data.ApplicationContext();
-            Console.Write("Informe o código do produto que será alterado");
+            Console.Write("Informe o código do produto que será alterado: ");
             var produto = db.Produtos.Find(Int32.Parse(Console.ReadLine()));
             Console.Write("Digite o nome do produto: ");
             var nomeProduct = Console.ReadLine();
@@ -33,6 +33,7 @@ namespace SGP.Domain
             produto.ValorCompra = vlrCompra;
             db.Produtos.Update(produto);
             db.SaveChanges();
+            Console.WriteLine("Produto Alterado!");
         }
 
         public static void RemoverProduto()
@@ -42,7 +43,7 @@ namespace SGP.Domain
             {
                 Console.WriteLine($"[{p.Id}] " + " " + p.Nome);
             }
-            Console.Write("Informe o código do produto que será alterado");
+            Console.Write("Informe o código do produto que será removido: ");
             var produto = db.Produtos.Find(Int32.Parse(Console.ReadLine()));
             db.Entry(produto).State = EntityState.Deleted;
             db.SaveChanges();

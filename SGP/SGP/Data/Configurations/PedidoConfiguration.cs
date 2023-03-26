@@ -19,7 +19,7 @@ namespace SGP.Data.Configurations
             builder.Property(p => p.NomeProduto).HasColumnType("VARCHAR(80)").IsRequired();
             //Neste caso, foi definido o uso de um enumerador e podemos converter o valor para pegar a string
             builder.Property(p => p.formadeEntrega).HasConversion<string>();
-            builder.Property(p => p.Pago).HasColumnType("BIT");
+            builder.Property(p => p.Pago).HasColumnType("INTEGER");
             builder.Property(p => p.Valor).HasColumnType("FLOAT");
 
         }
